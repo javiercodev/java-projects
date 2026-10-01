@@ -10,6 +10,7 @@ A repository where I upload the exercises I do while learning Java. It's a place
 | [`conditionals`](./conditionals) | Conditionals (`if`, `else`, `switch`) |
 | [`debugging`](./debugging) | Debugging and troubleshooting |
 | [`keyboard-input`](./keyboard-input) | Reading input from the keyboard |
+| [`loops`](./loops) | Loops and iteration (`for`, `while`, `do-while`) |
 | [`variables`](./variables) | Variables and data types |
 
 I'll keep adding new folders as I make progress.
