@@ -1,6 +1,6 @@
 # java-projects
 
-A repository where I upload the exercises I do while learning Java. It's a place to practice and to document my progress as a developer.
+Java exercises organized by topic, from core syntax to control flow and debugging. Built as part of my studies in Web Application Development (DAW).
 
 ## Contents
 
@@ -28,4 +28,4 @@ java FileName
 
 ## Note
 
-These are learning exercises, so the code may have room for improvement. I'm still practicing!
+Work in progress: I add new exercises as the course advances
