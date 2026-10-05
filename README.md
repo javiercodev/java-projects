@@ -13,19 +13,18 @@ Java exercises organized by topic, from core syntax to control flow and debuggin
 | [`loops`](./loops) | Loops and iteration (`for`, `while`, `do-while`) |
 | [`variables`](./variables) | Variables and data types |
 
-I'll keep adding new folders as I make progress.
-
 ## How to run an exercise
 
 You'll need the [JDK](https://www.oracle.com/es/java/technologies/downloads/) installed.
 
 ```bash
 git clone https://github.com/javiercodev/java-projects.git
-cd java-projects/variables
-javac FileName.java
-java FileName
+cd java-projects/<folder>
+javac <filename>.java
+java <filename>
 ```
+Replace `<folder>` and `<filename>` with the exercise you want to run.
 
 ## Note
 
-Work in progress: I add new exercises as the course advances
+Work in progress: I add new exercises as the course advances.
