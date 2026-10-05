@@ -23,7 +23,7 @@ public class PrimeNumbers{
 
         if (isPrime)
         {
-            System.out.print("Is a primer number.");
+            System.out.print("Is a prime number.");
         } else {
             System.out.print("Is not a prime number.");
         }
