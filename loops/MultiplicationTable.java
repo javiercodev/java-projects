@@ -6,7 +6,7 @@ public class MultiplicationTable {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce a number: ");
+        System.out.print("Enter a number: ");
         int number = s.nextInt();
         int result = 0;
 

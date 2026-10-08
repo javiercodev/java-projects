@@ -6,7 +6,7 @@ public class ScanerClass02 {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce your name and your age: ");
+        System.out.print("Enter your name and your age: ");
         String name = s.next();
         int age = s.nextInt();
 

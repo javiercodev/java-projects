@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Calification{
+public class Calification {
 
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce the calification one: ");
+        System.out.print("Enter the calification one: ");
         double calificationOne = Double.parseDouble(s.nextLine());
 
         System.out.print("Introduce your wished evaluation: ");

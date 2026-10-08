@@ -6,7 +6,7 @@ public class Taxable {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce the taxable base: ");
+        System.out.print("Enter the taxable base: ");
 
         double taxableBase = s.nextDouble();
         double total = taxableBase * 1.21;

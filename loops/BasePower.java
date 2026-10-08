@@ -6,9 +6,9 @@ public class BasePower {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce the base: ");
+        System.out.print("Enter the base: ");
         int base = s.nextInt();
-        System.out.print("Introduce the power: ");
+        System.out.print("Enter the power: ");
         int power = s.nextInt();
 
         int result = 0;

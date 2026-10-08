@@ -6,7 +6,7 @@ public class Discount {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce the price: ");
+        System.out.print("Enter the price: ");
         double price = s.nextDouble();
 
         if (price > 100) {

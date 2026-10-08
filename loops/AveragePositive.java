@@ -12,7 +12,7 @@ public class AveragePositive {
         double average = 0;
 
         do {
-            System.out.print("Introduce a number: ");
+            System.out.print("Enter a number: ");
             number = s.nextInt();
             if (number >= 0) {
                 i++;

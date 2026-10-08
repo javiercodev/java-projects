@@ -11,7 +11,7 @@ public class PositiveNegative {
         int negative = 0;
 
         for (int i = 1; i <= 10; i++) {
-            System.out.print("Introduce a number: ");
+            System.out.print("Enter a number: ");
             number = s.nextInt();
             if (number > 0) {
                 positive++;

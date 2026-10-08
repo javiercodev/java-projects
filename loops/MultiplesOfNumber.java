@@ -1,4 +1,4 @@
-public class Multiples {
+public class MultiplesOfNumber {
 
     public static void main(String[] args) {
         int base = 5;

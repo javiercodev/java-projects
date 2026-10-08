@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class CountNumbers{
+public class CountNumbers {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
        
         Scanner s = new Scanner(System.in);
 
@@ -10,9 +10,9 @@ public class CountNumbers{
         int sum = 0;
         int i = 0;
 
-        do{
+        do {
             i++;
-            System.out.print("Introduce a number:");
+            System.out.print("Enter a number:");
             number = s.nextInt();
             sum = sum + number;
 

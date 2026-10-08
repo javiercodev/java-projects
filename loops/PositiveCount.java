@@ -10,8 +10,7 @@ public class PositiveCount {
         int countNumber = 0;
         int add = 0;
 
-        while (introducedNumber >= 0) 
-        {
+        while (introducedNumber >= 0) {
             introducedNumber = s.nextInt();
             countNumber++;
             add += introducedNumber;

@@ -6,7 +6,7 @@ public class AgeVerifier {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce your age: ");
+        System.out.print("Enter your age: ");
         int age = s.nextInt();
 
         if(age >= 18) {

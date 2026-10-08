@@ -1,4 +1,4 @@
-public class Translation {
+public class WordTranslator {
 
     public static void main(String[] args) {
         

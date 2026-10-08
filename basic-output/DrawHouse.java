@@ -1,4 +1,4 @@
-public class House {
+public class DrawHouse {
 
     public static void main(String[] args) {
 
@@ -10,5 +10,4 @@ public class House {
         System.out.println("\t       | =  = |         ");
         System.out.println("\t     | | | | | | |      ");
     }
-    
 }

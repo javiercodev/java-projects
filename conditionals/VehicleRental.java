@@ -27,6 +27,5 @@ public class VehicleRental {
             total = base + amount;
             System.out.print("Additional amount of 0.10 for the excess over 1000: " + total);
         }
-
     }
 }

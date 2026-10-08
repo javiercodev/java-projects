@@ -6,13 +6,13 @@ public class CalculatorMenu {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce a number: ");
+        System.out.print("Enter a number: ");
         double number1 = Double.parseDouble(s.nextLine());
 
-        System.out.print("Introduce another number: ");
+        System.out.print("Enter another number: ");
         double number2 = Double.parseDouble(s.nextLine());
 
-        System.out.print("Introduce the operation: ");
+        System.out.print("Enter the operation: ");
         String operation = s.nextLine();
 
         double total = 0.0;
@@ -37,7 +37,6 @@ public class CalculatorMenu {
             total = number1 / number2;
             System.out.print("The divison of " + number1 + " and " + number2 + " is " + total);
             break;
-            
         }
     }
 }

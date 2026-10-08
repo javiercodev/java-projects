@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IRPF {
+public class IncomeTaxCalculator {
 
     public static void main(String[] args) {
 

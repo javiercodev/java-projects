@@ -10,7 +10,7 @@ public class ControlAccess {
         int attempts = 0;
 
         do {
-            System.out.print("Introduce the password: ");
+            System.out.print("Enter the password: ");
             passwordIntroduced = s.nextLine();
 
             if (passwordIntroduced.equals(passwordData)) {

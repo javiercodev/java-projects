@@ -6,7 +6,7 @@ public class ScannerClass03 {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce 3 numbers(int or double) with space");
+        System.out.print("Enter 3 numbers(int or double) with space");
         double number1 = s.nextDouble();
         double number2 = s.nextDouble();
         double number3 = s.nextDouble();

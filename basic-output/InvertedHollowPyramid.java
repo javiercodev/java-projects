@@ -1,4 +1,4 @@
-public class InvertVoidPyramid {
+public class InvertedHollowPyramid {
 
     public static void main(String[] args) {
 
@@ -6,6 +6,5 @@ public class InvertVoidPyramid {
         System.out.println("\t          *   *             ");
         System.out.println("\t           * *              ");
         System.out.println("\t            *               ");
-
     }
 }

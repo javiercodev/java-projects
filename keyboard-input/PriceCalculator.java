@@ -6,13 +6,13 @@ public class PriceCalculator {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce the taxable base: ");
+        System.out.print("Enter the taxable base: ");
         double taxableBase = Double.parseDouble(s.nextLine());
 
-        System.out.print("Introduce IVA Type(general, reduced, super-reduced): ");
+        System.out.print("Enter IVA Type(general, reduced, super-reduced): ");
         String ivaType = s.nextLine();
 
-        System.out.print("Introduce promo(nopro, mid, min5 or 5porc: ");
+        System.out.print("Enter promo(nopro, mid, min5 or 5porc: ");
         String promoCode = s.nextLine();
 
         System.out.println("Taxable base: " + taxableBase);

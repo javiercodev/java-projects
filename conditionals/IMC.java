@@ -6,7 +6,7 @@ public class IMC {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce your weight and height: ");
+        System.out.print("Enter your weight and height: ");
         double weight = s.nextDouble();
         double height = s.nextDouble();
         double imc = weight / (height * height);

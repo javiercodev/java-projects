@@ -6,7 +6,7 @@ public class Salary {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce hours: ");
+        System.out.print("Enter hours: ");
 
         double hours = s.nextDouble();
 

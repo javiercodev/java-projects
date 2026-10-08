@@ -6,7 +6,7 @@ public class Columns {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce a number: ");
+        System.out.print("Enter a number: ");
         double numberBase = s.nextInt();
         double numberPowTwo = 1;
         double numberPowThree = 1;

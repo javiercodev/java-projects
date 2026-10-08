@@ -1,4 +1,4 @@
-public class Ticket {
+public class TicketPriceCalculator {
 
     public static void main(String[] args) {
 

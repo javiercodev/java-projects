@@ -6,7 +6,7 @@ public class EvenOdd {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce a number(int): ");
+        System.out.print("Enter a number(int): ");
         int number = s.nextInt();
 
         if(number % 2 == 0) {

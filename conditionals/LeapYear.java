@@ -6,7 +6,7 @@ public class LeapYear {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce a year: ");
+        System.out.print("Enter a year: ");
         int year = s.nextInt();
 
         if (year % 4 == 0 || year % 400 == 0) {

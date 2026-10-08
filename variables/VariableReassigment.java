@@ -1,4 +1,4 @@
-public class ChangeVar {
+public class VariableReassigment {
 
     public static void main(String[] args) {
 

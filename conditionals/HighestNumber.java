@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Higher {
+public class HighestNumber {
 
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce 3 numbers: ");
+        System.out.println("Enter 3 numbers: ");
         int number1 = s.nextInt();
         int number2 = s.nextInt();
         int number3 = s.nextInt();

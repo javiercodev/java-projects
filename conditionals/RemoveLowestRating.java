@@ -6,11 +6,11 @@ public class RemoveLowestRating {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce the first rating: ");
+        System.out.print("Enter the first rating: ");
         double rating1 = s.nextDouble();
-        System.out.print("Introduce the second rating: ");
+        System.out.print("Enter the second rating: ");
         double rating2 = s.nextDouble();
-        System.out.print("Introduce the third rating: ");
+        System.out.print("Enter the third rating: ");
         double rating3 = s.nextDouble();
         double average = 0.0;
 

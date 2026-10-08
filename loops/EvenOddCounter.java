@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EvenOdd {
+public class EvenOddCounter {
 
     public static void main(String[] args) {
 
@@ -11,7 +11,7 @@ public class EvenOdd {
         boolean next = false;
 
         do {
-            System.out.print("Introduce a number: ");
+            System.out.print("Enter a number: ");
             number = Integer.parseInt(s.nextLine());
 
             if (number % 2 == 0) {

@@ -6,7 +6,7 @@ public class ConeVolume {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce radio and height: ");
+        System.out.print("Enter radio and height: ");
 
         double radio = s.nextDouble();
         double height = s.nextDouble();

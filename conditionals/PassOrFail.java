@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class PassedFailed {
+public class PassOrFail {
 
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce calification: ");
+        System.out.print("Enter calification: ");
         double calification = s.nextDouble();
 
         if(calification < 5) {

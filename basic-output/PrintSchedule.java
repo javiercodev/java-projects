@@ -1,4 +1,4 @@
-public class Schedule {
+public class PrintSchedule {
     
     public static void main(String[] args) {
         

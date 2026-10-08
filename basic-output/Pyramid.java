@@ -5,6 +5,5 @@ public class Pyramid {
         System.out.println("\t            *            ");
         System.out.println("\t           ***           ");
         System.out.println("\t          *****          ");
-
     }
 }

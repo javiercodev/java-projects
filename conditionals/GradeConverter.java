@@ -6,7 +6,7 @@ public class GradeConverter {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce your grade: ");
+        System.out.print("Enter your grade: ");
         char grade = s.next().charAt(0);
 
         switch(grade) {

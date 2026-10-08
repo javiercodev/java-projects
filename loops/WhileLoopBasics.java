@@ -1,4 +1,4 @@
-public class WhileExample {
+public class WhileLoopBasics {
 
     public static void main(String[] args) {
 

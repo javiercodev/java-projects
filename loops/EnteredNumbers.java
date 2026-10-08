@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class IntroducedNumbers{
+public class EnteredNumbers {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
         int number = 0;
@@ -10,8 +10,8 @@ public class IntroducedNumbers{
         int acumulator = 0;
         int numberHigher = 0;
 
-        do{
-            System.out.print("Introduce a number: ");
+        do {
+            System.out.print("Enter a number: ");
             number = s.nextInt();
             
             if (number >= 0 && number % 2 != 0)

@@ -6,7 +6,7 @@ public class NumberDigit {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.print("Introduce a number: ");
+        System.out.print("Enter a number: ");
         int number = s.nextInt();
         int digit = 0;
 

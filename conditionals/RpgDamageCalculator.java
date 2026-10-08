@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RPG {
+public class RpgDamageCalculator {
 
     public static void main(String[] args) {
 
