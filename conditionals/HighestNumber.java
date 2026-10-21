@@ -6,7 +6,7 @@ public class HighestNumber {
 
         Scanner s = new Scanner(System.in);
 
-        System.out.println("Enter 3 numbers: ");
+        System.out.print("Enter 3 numbers: ");
         int number1 = s.nextInt();
         int number2 = s.nextInt();
         int number3 = s.nextInt();
@@ -16,7 +16,7 @@ public class HighestNumber {
         } else if (number2 > number1 && number2 > number3) {
             System.out.print(number2 + " is higher than " + number1 + " and " + number3);
         } else if (number3 > number1 && number3 > number2) {
-            System.out.print(number3 + " is higher than " + number1 + " and " + number1);
+            System.out.print(number3 + " is higher than " + number1 + " and " + number2);
         }
     }
 }
