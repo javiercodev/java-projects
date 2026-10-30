@@ -6,6 +6,7 @@ Java exercises organized by topic, from core syntax to control flow and debuggin
 
 | Folder | Topic |
 | --- | --- |
+| [`arrays`](./arrays) | Arrays (storing and accessing multiple values) |
 | [`basic-output`](./basic-output) | Basic console output |
 | [`conditionals`](./conditionals) | Conditionals (`if`, `else`, `switch`) |
 | [`debugging`](./debugging) | Debugging and troubleshooting |
