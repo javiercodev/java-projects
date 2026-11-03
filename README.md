@@ -1,6 +1,6 @@
 # java-projects
 
-Java exercises organized by topic, from core syntax to control flow and debugging. Built as part of my studies in Web Application Development (DAW).
+Java exercises organized by topic. Built as part of my studies in Web Application Development (DAW).
 
 ## Contents
 
